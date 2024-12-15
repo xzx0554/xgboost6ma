@@ -6,5 +6,7 @@ Given the constraints of limited memory and GPU memory, to execute 'xgboost6ma',
 Additionally, the deep learning checkpoints required for this process need to be downloaded from the working directories of `BERT6ma` and `CNN6ma`, and placed into a folder named `model`.
 
 We would like to express our gratitude to the developers of CNN6ma and BERT6ma for their outstanding work.
-[kuratahiroyuki](https://github.com/kuratahiroyuki/CNN6mA)
+[kuratahiroyuki](https://github.com/kuratahiroyuki/CNN6mA) 
+
+
 [kuratahiroyuki/BERT6mA](https://github.com/kuratahiroyuki/BERT6mA)
